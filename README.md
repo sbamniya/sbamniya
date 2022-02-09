@@ -20,7 +20,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>&nbsp;
     <a href="https://stackoverflow.com/users/5598423/sonu-bamniya">
-      <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>
+     <a href="https://www.npmjs.com/~sbamniya23">
+      <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge"/>
     </a>
   </div>
   
