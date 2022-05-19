@@ -25,9 +25,6 @@ Here are some ideas to get you started:
      <a href="https://www.npmjs.com/~sbamniya23">
       <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge"/>
     </a>
-    
-    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-    
   </div>
   
   <h1>
