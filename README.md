@@ -1,83 +1,88 @@
-### 🔥 Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+# Welcome to My GitHub Profile! 👋
 
-<!--
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/19921943?v=4?v=4&h=300&w=300&fit=cover&mask=circle" />
+  <br />
+  <b>Passionate Software Engineer | Open Source Enthusiast | Tech Explorer</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+## About Me 🚀
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sonu-bamniya/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>&nbsp;
-    <a href="https://stackoverflow.com/users/5598423/sonu-bamniya">
-      <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="Stack Overflow Badge"/>
-    </a>
-     <a href="https://www.npmjs.com/~sbamniya23">
-      <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge"/>
-    </a>
-  </div>
-  
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-</div>
+Hello there! I'm Sonu Bamnniya, a passionate Software Engineer with a keen interest in building innovative and user-friendly applications. My journey in the tech world started with curiosity, and it has led me to explore various programming languages, frameworks, and tools. I believe in the power of code to solve real-world problems and enhance lives.
 
-### :man_technologist: About Me :
+- 🔭 I’m currently working on exciting projects using React, Angular, Next.js, and Node.js.
+- 🌱 I’m constantly learning and expanding my skillset to keep up with the latest trends in the tech industry.
+- 👯 I’m looking to collaborate on open-source projects that make a positive impact.
+- 💬 Ask me about web development, data structures, or anything related to tech!
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+## Projects 🚀
 
-- 🛰️ I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Here are some of the projects I'm proud to have worked on:
 
-- 🎒 Travelling all over India.
+### [Writearn](https://writearn.in/)
 
-- :zap: In my free time, I read tech articles and play some outdoor games to be in shape.
+A feature-rich web app built with React, Next.js and NodeJS to build a platform that allows writers to create and publish content, and earn money based on the views and engagement their content receives. 
 
-- :mailbox: How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>](https://www.linkedin.com/in/sonu-bamniya/)
+#### Features 💫
+- **A wide range of topics:** Writers can choose from a wide range of topics to write about, including technology, business, entertainment, lifestyle, and more.
+- **A user-friendly interface:** The Writearn.in interface is easy to use and navigate, making it easy for writers to create and publish content.
+- **A transparent payment system:** Writers are paid based on the views and engagement their content receives, and the payment system is transparent, so writers know exactly how much they will earn.
+- **A supportive community:** The Writearn.in community is supportive and welcoming, and writers can connect with other writers and learn from each other.
 
-### :fire: My Stats :
+### [BidWizer](https://www.bidwizer.com/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbamniya&theme=dark&background=000000)](https://git.io/streak-stats)
+BidWizer is a cloud-based platform developed on React, TypeScript, NodeJS, and ElastiSearch that allows buyers and sellers of vehicles to connect and transact online. The platform uses a reverse auction model, where sellers compete against each other to offer the lowest price to buyers. This allows buyers to get the best possible deal on their next vehicle purchase.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbamniya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+#### Features 💫
+- **A wide selection of vehicles:** BidWizer has a wide selection of vehicles available for purchase, including new, used, and certified pre-owned vehicles.
+- **A transparent pricing model:** The BidWizer pricing model is transparent, so buyers know exactly how much they are bidding on.
+- **A secure transaction process:** BidWizer uses a secure transaction process to protect the privacy and security of buyers and sellers.
+- **A convenient user interface:** The BidWizer user interface is easy to use and navigate, making it easy for buyers and sellers to find the vehicles they are looking for and to complete transactions.
 
-### :hammer_and_wrench: Languages and Tools :
+## Tech Stack 🛠️
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="django"  alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
-</div>
+Here are some of the technologies and tools I'm proficient in:
+
+- **Frontend:** HTML5, CSS3, JavaScript, React, Redux, Vue.js, Angular
+- **Backend:** Node.js, Express.js, Nest.js, Fastify, Restify, Loopback, Django, Flask, Laravel, CodeIgniter
+- **Databases:** MongoDB, PostgreSQL, ElasticSearch, MySQL, Cassandra, Firebase Realtime Database, Firestore
+- **Cloud:** AWS, Firebase, GCP
+- **Version Control:** Git, GitHub, BitBucket, GitLab, SVN
+- **DevOps:** Docker, Jenkins, Nginx, Apache2, OpenSSL, GitHub Actions, Shell Script
+- **Others:** TypeScript, RESTful APIs, GraphQL, Socket, Microservices, Multi-tenancy, Redis, FFMpeg, WebRTC
+
+## Open Source Contributions 🌐
+
+I'm a firm believer in the open-source community, and I actively contribute to projects that have a positive impact. Some notable contributions include:
+
+- [RazorPayXNodeSDK](https://github.com/sbamniya/razorpayx-nodejs-sdk): Built from scratch and maintainging it.
+- [MongooseCLI](https://github.com/sbamniya/mongoose-cli): CLI based tool to automatically generate Controllers, Routers and models files in a NodeJS Application.
+- [ReactPDFSite](https://github.com/diegomura/react-pdf-site): Contribution in documentation.
+
+## Experience 👨‍💻
+- **System Architect** at [Chapter247 Infotech](https://www.chapter247.com/) (2017-Present)
+   - Developed and maintained scalable web applications using Angular, VueJS, React and NodeJS.
+   - Collaborated with cross-functional teams to deliver high-quality software solutions.
+   - Managing a team of more than 20 people.
+   - Research and Development on trending technologies and introduce new technologies in the organization.
+
+- **Software Engineer** at [Deltabee Technologies](https://deltabee.com/) (2016-2017)
+   - Developed and maintained scalable web applications using Angular, React and NodeJS.
+   - Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+## 🔥 GitHub Stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbamniya&show_icons=true&theme=radical)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbamniya&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbamniya&layout=compact&theme=vision-friendly-dark)
+
+## Let's Connect 📫
+I'm always open to collaborating on exciting projects or discussing technology. Feel free to connect with me
+
+- LinkedIn: [Sonu Bamniya](https://www.linkedin.com/in/sonu-bamniya)
+- Portfolio: [sbamniya.in](https://sbamniya.in)
+- Email: sbamniya23@gmail.com
+
+Thank you for visiting my profile! Let's make the tech world a better place together! Happy coding! 🚀
