@@ -84,5 +84,6 @@ I'm always open to collaborating on exciting projects or discussing technology. 
 - LinkedIn: [Sonu Bamniya](https://www.linkedin.com/in/sonu-bamniya)
 - Portfolio: [sbamniya.in](https://sbamniya.in)
 - Email: sbamniya23@gmail.com
+- WhatsApp: [+91-88782-20874](https://wa.me/918878220874)
 
 Thank you for visiting my profile! Let's make the tech world a better place together! Happy coding! 🚀
