@@ -1,25 +1,93 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Sonu Bamniya 👋
 
-<p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/19921943?v=4?v=4&h=300&w=300&fit=cover&mask=circle" />
-  <br />
-  <b>Passionate Software Engineer | Open Source Enthusiast | Tech Explorer</b>
-</p>
+![Founder](https://img.shields.io/badge/Founder-SaaS-blue)
+![System Architect](https://img.shields.io/badge/System%20Architect-10%2B%20Years-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange)
 
-## About Me 🚀
+---
 
-Hello there! I'm Sonu Bamniya, a passionate Software Engineer with a keen interest in building innovative and user-friendly applications. My journey in the tech world started with curiosity, and it has led me to explore various programming languages, frameworks, and tools. I believe in the power of code to solve real-world problems and enhance lives.
+## 🚀 About Me
 
-- 🔭 I’m currently working on exciting projects using React, Angular, Next.js, and Node.js.
-- 🌱 I’m constantly learning and expanding my skillset to keep up with the latest trends in the tech industry.
-- 👯 I’m looking to collaborate on open-source projects that make a positive impact.
-- 💬 Ask me about web development, data structures, or anything related to tech!
+I’m a **System Architect & Founder** with **10+ years of experience** building and scaling production-grade web applications and SaaS platforms.
 
-## Projects 🚀
+I specialize in:
+- Designing **scalable backend architectures**
+- Building **multi-tenant SaaS products**
+- Shipping **end-to-end features** from idea → production
+- Leading teams and mentoring engineers
 
-Here are some of the projects I'm proud to have worked on:
+Currently focused on **SaaS, HR tech, and AI-powered platforms**.
 
-### [Writearn](https://writearn.in/)
+---
+
+## 🧠 Founder & Builder
+
+- 🧩 Founder of **ZestNexus** – HRMS, Payroll, Attendance & Recruitment platform  
+- 🎓 Founder of **StudyCircleAI** – AI-first learning & revision platform  
+- 🏗️ Architecting systems used by thousands of users  
+- 🤖 Actively integrating AI into real business workflows  
+
+---
+
+## 🏆 Flagship Products
+
+### 🔷 ZestNexus (Founder)
+
+An **all-in-one HRMS platform** built for SMBs and service companies.
+
+**Modules**
+- Core HR, Attendance, Leave & Payroll  
+- Recruitment & Candidate Management  
+- Multi-tenant SaaS architecture  
+- Automations (Email, Slack, Cron jobs)  
+- AI-powered workflows (in progress)
+
+**Impact**
+- Designed and shipped a multi-tenant SaaS platform from scratch
+- Simplified HR, attendance, and payroll workflows for growing teams
+- Built scalable backend systems handling automation & scheduled jobs
+- Actively integrating AI to reduce manual HR operations
+
+**Tech:** React, Node.js, TypeScript, PostgreSQL, Redis, AWS
+
+---
+
+### 📘 StudyCircleAI (Founder)
+
+An **AI-powered study platform** that converts learning material into
+notes, quizzes, and structured revision plans.
+
+**Highlights**
+- Upload PDFs, docs, videos & links  
+- AI-generated notes & quizzes  
+- Daily study check-ins & analytics  
+- Subscription-based access control  
+
+**Impact**
+- Enabled students to upload PDFs, videos, and links for AI-generated learning content
+- Improved daily study consistency using check-ins and analytics
+- Designed subscription-based feature gating and limits
+- Built for mobile-first usage and scalability
+
+**Tech:** React, Node.js, PostgreSQL, AI/LLM APIs
+
+---
+
+### 🛍️ Dripshop
+
+A **live commerce platform** enabling creators to sell products through live video streams.
+
+**Highlights**
+- Real-time video & chat  
+- Creator storefronts  
+- Order & payment workflows  
+- High-concurrency architecture  
+
+**Tech:** React, Node.js, TypeScript, GraphQL, PostgreSQL
+
+---
+
+### ✍️ Writearn
 
 A feature-rich web app built with React, Next.js and NodeJS to build a platform that allows writers to create and publish content, and earn money based on the views and engagement their content receives. 
 
@@ -29,7 +97,11 @@ A feature-rich web app built with React, Next.js and NodeJS to build a platform 
 - **A transparent payment system:** Writers are paid based on the views and engagement their content receives, and the payment system is transparent, so writers know exactly how much they will earn.
 - **A supportive community:** The Writearn.in community is supportive and welcoming, and writers can connect with other writers and learn from each other.
 
-### [BidWizer](https://www.bidwizer.com/)
+**Tech:** React, Next.js, Node.js
+
+---
+
+### 🚗 BidWizer
 
 BidWizer is a cloud-based platform developed on React, TypeScript, NodeJS, and ElastiSearch that allows buyers and sellers of vehicles to connect and transact online. The platform uses a reverse auction model, where sellers compete against each other to offer the lowest price to buyers. This allows buyers to get the best possible deal on their next vehicle purchase.
 
@@ -39,51 +111,72 @@ BidWizer is a cloud-based platform developed on React, TypeScript, NodeJS, and E
 - **A secure transaction process:** BidWizer uses a secure transaction process to protect the privacy and security of buyers and sellers.
 - **A convenient user interface:** The BidWizer user interface is easy to use and navigate, making it easy for buyers and sellers to find the vehicles they are looking for and to complete transactions.
 
-## Tech Stack 🛠️
+**Tech:** React, TypeScript, Node.js, Elasticsearch
 
-Here are some of the technologies and tools I'm proficient in:
+---
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, Redux, Vue.js, Angular
-- **Backend:** Node.js, Express.js, Nest.js, Fastify, Restify, Loopback, Django, Flask, Laravel, CodeIgniter
-- **Databases:** MongoDB, PostgreSQL, ElasticSearch, MySQL, Cassandra, Firebase Realtime Database, Firestore
-- **Cloud:** AWS, Firebase, GCP
-- **Version Control:** Git, GitHub, BitBucket, GitLab, SVN
-- **DevOps:** Docker, Jenkins, Nginx, Apache2, OpenSSL, GitHub Actions, Shell Script
-- **Others:** TypeScript, RESTful APIs, GraphQL, Socket, Microservices, Multi-tenancy, Redis, FFMpeg, WebRTC
+## ⚙️ Architecture & Platform Work
 
-## Open Source Contributions 🌐
+- Designed **cron & background job systems**
+- Built **multi-tenant SaaS platforms**
+- Experience with **Redis, caching, queues**
+- CI/CD pipelines using **Docker & GitHub Actions**
+- Performance optimization for large datasets
 
-I'm a firm believer in the open-source community, and I actively contribute to projects that have a positive impact. Some notable contributions include:
+---
 
-- [RazorPayXNodeSDK](https://github.com/sbamniya/razorpayx-nodejs-sdk): Built from scratch and maintainging it.
-- [MongooseCLI](https://github.com/sbamniya/mongoose-cli): CLI based tool to automatically generate Controllers, Routers and models files in a NodeJS Application.
-- [ReactPDFSite](https://github.com/diegomura/react-pdf-site): Contribution in documentation.
+## 🧰 Tech Stack
 
-## Experience 👨‍💻
-- **System Architect** at [Chapter247 Infotech](https://www.chapter247.com/) (2017-2024)
-   - Developed and maintained scalable web applications using Angular, VueJS, React and NodeJS.
-   - Collaborated with cross-functional teams to deliver high-quality software solutions.
-   - Managing a team of more than 20 people.
-   - Research and Development on trending technologies and introduce new technologies in the organization.
+**Core**
+- JavaScript / TypeScript
+- Node.js, React, Next.js
 
-- **Software Engineer** at [Deltabee Technologies](https://deltabee.com/) (2016-2017)
-   - Developed and maintained scalable web applications using Angular, React and NodeJS.
-   - Collaborated with cross-functional teams to deliver high-quality software solutions.
+**Backend & Architecture**
+- REST & GraphQL APIs
+- Microservices & Multi-tenancy
+- Authentication & Authorization
 
-## 🔥 GitHub Stats 📈
+**Databases**
+- PostgreSQL, MongoDB, Redis, Elasticsearch
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbamniya&show_icons=true&theme=radical)
+**Cloud & DevOps**
+- AWS, Docker, GitHub Actions
+- Nginx, CI/CD pipelines
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbamniya&theme=dark&background=000000)
+**AI & Real-Time**
+- LLM integrations
+- WebSockets, WebRTC
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbamniya&layout=compact&theme=vision-friendly-dark)
+---
 
-## Let's Connect 📫
-I'm always open to collaborating on exciting projects or discussing technology. Feel free to connect with me
+## 🌐 Open Source Contributions
 
-- LinkedIn: [Sonu Bamniya](https://www.linkedin.com/in/sonu-bamniya)
-- Portfolio: [sbamniya.in](https://sbamniya.in)
-- Email: sbamniya23@gmail.com
-- WhatsApp: [+91-88782-20874](https://wa.me/918878220874)
+- **RazorPayXNodeSDK** – Built & maintained from scratch  
+- **MongooseCLI** – CLI to scaffold Node.js apps faster  
+- **ReactPDFSite** – Documentation contributions  
 
-Thank you for visiting my profile! Let's make the tech world a better place together! Happy coding! 🚀
+---
+
+## 👨‍💻 Experience
+
+### **System Architect** — Chapter247 Infotech (2017–2024)
+- Architected and delivered scalable web applications
+- Led and mentored a team of 20+ engineers
+- Introduced new technologies & best practices
+- Hands-on with Angular, React, Vue, Node.js
+
+### **Software Engineer** — Deltabee Technologies (2016–2017)
+- Built full-stack web applications
+- Collaborated closely with product & design teams
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sonu-bamniya  
+- 🌐 Portfolio: https://sbamniya.in  
+- ✉️ Email: sbamniya23@gmail.com  
+
+---
+
+⭐ *Always open to discussing architecture, startups, and impactful products.*
